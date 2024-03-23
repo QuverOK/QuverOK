@@ -32,7 +32,7 @@
 ###
 
 <div align="left">
-<img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%23fff?style=for-the-badge&color=%231C93E3&link=https%3A%2F%2Ft.me%2Fquverokkk">
+  <a href="https://t.me/quverokkk"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%23fff?style=for-the-badge&color=%231C93E3&link=https%3A%2F%2Ft.me%2Fquverokkk"></a>
 </div>
 
 
