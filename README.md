@@ -12,12 +12,12 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/2c/1e/54/2c1e548b915354ed255454f5a0739c47.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/2c/1e/54/2c1e548b915354ed255454f5a0739c47.gif"  />
 
 ###
 
-<h3 align="left">Languages and Tools:</h3>
-<div align="left">
+<h3 align="right">Languages and Tools:</h3>
+<div align="right">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -31,7 +31,7 @@
 
 ###
 
-<div align="left">
+<div align="right">
   <a href="https://t.me/quverokkk"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%23fff?style=for-the-badge&color=%231C93E3&link=https%3A%2F%2Ft.me%2Fquverokkk"></a>
 </div>
 
