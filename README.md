@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Danila</h1>
 <h3 align="center">A frontend developer from Russia</h3>
 
-- 🌱 I’m currently learning **Frontend**
+- 🌱 I’m currently learning **NextJs**
 
 ###
 
