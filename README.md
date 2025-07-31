@@ -43,11 +43,10 @@
   </div>
 </div>
 
-###
 
-<div align="left">
 
-## React
+<h3 align="center">React</h3>
+
 | Название проекта                        | Стек                                                                     | Ссылка на репозиторий                                                       |
 | --------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
 | todoapp-rtk                             | React, TS, RTK, RTK Query, Json-Server, axios, React Router, TailwindCSS | [GitHub](https://github.com/QuverOK/todoapp-rtk)                            |
@@ -57,7 +56,8 @@
 | Calculator                              | React + JS, SCSS, BEM                                                    | [GitHub](https://github.com/QuverOK/Calculator)                             |
 | TodoList                                | React + JS, SCSS, BEM                                                    | [GitHub](https://github.com/QuverOK/todoList)                               |                                        |                                                                          |                                                                             |
 
-## Vanilla JS
+<h3 align="center">Vanilla JS</h3>
+
 | Название проекта | Стек                | Ссылка на репозиторий                                                                                         |
 | ---------------- | ------------------- | ------------------------------------------------------------------------------------------------------------- |
 | ***DiveSea***    | ***HTML, CSS, JS*** | ***[GitHub](https://github.com/QuverOK/DiveSea), [Деплой](https://quverok-frilance-divesea.netlify.app/)***   |
