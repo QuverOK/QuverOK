@@ -43,8 +43,9 @@
   </div>
 </div>
 
+###
 
-
+<div align="left">
 <h3 align="center">React</h3>
 
 | Название проекта                        | Стек                                                                     | Ссылка на репозиторий                                                       |
@@ -74,9 +75,9 @@
 | REST API         | Express, MongoDB | [GitHub](https://github.com/user/api-server)  |
 | Game Server      | C#, Unity        | [GitHub](https://github.com/user/game-server) |
 |                  |                  |                                               | %
+</div>  
 
-
-
+###
 
 <div align="right">
   <a href="https://t.me/quverokkk"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%23fff?style=for-the-badge&color=%231C93E3&link=https%3A%2F%2Ft.me%2Fquverokkk"></a>
