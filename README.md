@@ -43,7 +43,8 @@
   </div>
 </div>
 
-# Репозитории
+<div>
+  # Репозитории
 
 ## React
 | Название проекта                        | Стек                                                                     | Ссылка на репозиторий                                                       |
@@ -72,6 +73,8 @@
 | REST API         | Express, MongoDB | [GitHub](https://github.com/user/api-server)  |
 | Game Server      | C#, Unity        | [GitHub](https://github.com/user/game-server) |
 |                  |                  |                                               | %%
+</div>
+
 
 
 
