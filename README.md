@@ -45,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
 <h3 align="center">React</h3>
 
 | Название проекта                        | Стек                                                                     | Ссылка на репозиторий                                                       |
