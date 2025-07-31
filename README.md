@@ -73,8 +73,7 @@
 | CLI Organizer    | Node.js          | [GitHub](https://github.com/user/cli-org)     |
 | REST API         | Express, MongoDB | [GitHub](https://github.com/user/api-server)  |
 | Game Server      | C#, Unity        | [GitHub](https://github.com/user/game-server) |
-|                  |                  |                                               | %%
-</div>
+|                  |                  |                                               | %
 
 
 
