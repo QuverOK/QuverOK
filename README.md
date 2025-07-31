@@ -68,15 +68,6 @@
 | PremiumCar       | HTML, CSS, JS       | [GitHub](https://github.com/QuverOK/PremiumCar), [Деплой](https://quverok-frilance-premium-cars.netlify.app/) |
 
 
-%% ## Others
-| Название проекта | Стек             | Ссылка на репозиторий                         |
-| ---------------- | ---------------- | --------------------------------------------- |
-| CLI Organizer    | Node.js          | [GitHub](https://github.com/user/cli-org)     |
-| REST API         | Express, MongoDB | [GitHub](https://github.com/user/api-server)  |
-| Game Server      | C#, Unity        | [GitHub](https://github.com/user/game-server) |
-|                  |                  |                                               | %
-</div>  
-
 ###
 
 <div align="right">
