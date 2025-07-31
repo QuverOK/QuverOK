@@ -11,7 +11,7 @@
 ###
 
 <div>
-<img align="left" height="150" src="https://i.pinimg.com/originals/2c/1e/54/2c1e548b915354ed255454f5a0739c47.gif"  /><img align="right" height="150" src="https://i.pinimg.com/originals/7d/65/56/7d6556c705cfde30d839e31482ea3b34.gif"  />
+<img align="left" height="150" src="https://i.pinimg.com/originals/2c/1e/54/2c1e548b915354ed255454f5a0739c47.gif"  />
 </div>
 
 ###
@@ -33,8 +33,6 @@
     <img width="12" />
     <img src="https://bestofjs.org/logos/shadcnui.dark.svg" height="30" title="ShadcnUI" alt="ShadcnUI logo"  />
     <img src="https://bestofjs.org/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F72518640%3Fv%3D3%26s%3D150&w=150&q=75" height="30" title="Tanstack Query" alt="Tanstack Query logo"  />
-
-	  </div>
   <div>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" title="C#" alt="csharp logo"  />
     <img width="12" /> 
