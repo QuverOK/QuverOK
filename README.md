@@ -10,7 +10,9 @@
 
 ###
 
-<img align="left" height="150" src="https://i.pinimg.com/originals/2c/1e/54/2c1e548b915354ed255454f5a0739c47.gif"  />
+<div>
+<img align="left" height="150" src="https://i.pinimg.com/originals/2c/1e/54/2c1e548b915354ed255454f5a0739c47.gif"  /><img align="right" height="150" src="https://i.pinimg.com/originals/7d/65/56/7d6556c705cfde30d839e31482ea3b34.gif"  />
+</div>
 
 ###
 
@@ -28,7 +30,11 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" height="30" title="SASS" alt="sass logo"  />
     <img width="12" />
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="30" title="TailwindCSS" alt="tailwind logo"  />
-  </div>
+    <img width="12" />
+    <img src="https://bestofjs.org/logos/shadcnui.dark.svg" height="30" title="ShadcnUI" alt="ShadcnUI logo"  />
+    <img src="https://bestofjs.org/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F72518640%3Fv%3D3%26s%3D150&w=150&q=75" height="30" title="Tanstack Query" alt="Tanstack Query logo"  />
+
+	  </div>
   <div>  
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" title="C#" alt="csharp logo"  />
     <img width="12" /> 
@@ -39,10 +45,38 @@
   </div>
 </div>
 
-###
+# Репозитории
+
+## React
+| Название проекта                        | Стек                                                                     | Ссылка на репозиторий                                                       |
+| --------------------------------------- | ------------------------------------------------------------------------ | --------------------------------------------------------------------------- |
+| todoapp-rtk                             | React, TS, RTK, RTK Query, Json-Server, axios, React Router, TailwindCSS | [GitHub](https://github.com/QuverOK/todoapp-rtk)                            |
+| valeev-web-vite-theme-language-switcher | React, i18next, TailwindCSS                                              | [GitHub](https://github.com/QuverOK/valeevweb-vite-theme-language-switcher) |
+| ValeevWeb                               | React 19, NextJS 15, MaterialUI, Swiper                                  | [GitHub](https://github.com/QuverOK/ValeevWeb)                              |
+| KIP-frotend                             | React 19, NextJS 15, FSD, TailwindCSS, ShadcnUI, Motion, ChartJS         | [GitHub](https://github.com/QuverOK/kip-frontend)                           |
+| Calculator                              | React + JS, SCSS, BEM                                                    | [GitHub](https://github.com/QuverOK/Calculator)                             |
+| TodoList                                | React + JS, SCSS, BEM                                                    | [GitHub](https://github.com/QuverOK/todoList)                               |                                        |                                                                          |                                                                             |
+
+## Vanilla JS
+| Название проекта | Стек                | Ссылка на репозиторий                                                                                         |
+| ---------------- | ------------------- | ------------------------------------------------------------------------------------------------------------- |
+| ***DiveSea***    | ***HTML, CSS, JS*** | ***[GitHub](https://github.com/QuverOK/DiveSea), [Деплой](https://quverok-frilance-divesea.netlify.app/)***   |
+| Pioner           | HTML, CSS, JS       | [GitHub](https://github.com/QuverOK/Pioner), [Деплой](https://quverok-frilance-pioner.netlify.app/)           |
+| Castaway         | HTML, CSS, JS       | [GitHub](https://github.com/QuverOK/Castaway), [Деплой](https://quverok-frilance-castaway.netlify.app/)       |
+| RoomTiBet        | HTML, CSS, JS       | [GitHub](https://github.com/QuverOK/RoomTiBet), [Деплой](https://quverok-frilance-roomtibet.netlify.app/)     |
+| PremiumCar       | HTML, CSS, JS       | [GitHub](https://github.com/QuverOK/PremiumCar), [Деплой](https://quverok-frilance-premium-cars.netlify.app/) |
+
+
+%% ## Others
+| Название проекта | Стек             | Ссылка на репозиторий                         |
+| ---------------- | ---------------- | --------------------------------------------- |
+| CLI Organizer    | Node.js          | [GitHub](https://github.com/user/cli-org)     |
+| REST API         | Express, MongoDB | [GitHub](https://github.com/user/api-server)  |
+| Game Server      | C#, Unity        | [GitHub](https://github.com/user/game-server) |
+|                  |                  |                                               | %%
+
+
 
 <div align="right">
   <a href="https://t.me/quverokkk"><img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%23fff?style=for-the-badge&color=%231C93E3&link=https%3A%2F%2Ft.me%2Fquverokkk"></a>
 </div>
-
-
